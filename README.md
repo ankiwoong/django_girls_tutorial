@@ -24,3 +24,19 @@
 
 * 로그인 후 메인화면
 <img src="https://github.com/ankiwoong/django_girls_tutorial/blob/master/temp/img/deepening-part2-main2.png">
+
+# 장고 걸스 튜토리얼 - 심화 - 댓글 모델 만들기
+* 로그인 전 메인 화면
+<img src="https://github.com/ankiwoong/django_girls_tutorial/blob/master/temp/img/deepening-part3-main.png">
+
+* 댓글 승인 후 포스트 화면
+<img src="https://github.com/ankiwoong/django_girls_tutorial/blob/master/temp/img/deepening-part3-detail.png">
+
+* 댓글이 없는 포스트 화면
+<img src="https://github.com/ankiwoong/django_girls_tutorial/blob/master/temp/img/deepening-part3-detail2.png">
+
+* 댓글 작성 화면
+<img src="https://github.com/ankiwoong/django_girls_tutorial/blob/master/temp/img/deepening-part3-comment.png">
+
+* 관리자 화면
+<img src="https://github.com/ankiwoong/django_girls_tutorial/blob/master/temp/img/deepening-part3-admin.png">
