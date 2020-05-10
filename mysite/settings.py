@@ -123,3 +123,5 @@ STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')          # 정적 파일 경로를 추가
 
 LOGIN_REDIRECT_URL = '/'
+
+LOGOUT_REDIRECT_URL = '/'
